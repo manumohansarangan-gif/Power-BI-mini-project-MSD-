@@ -2,6 +2,7 @@
 An interactive Power BI dashboard analyzing the international cricket career of Mahendra Singh Dhoni (MSD) from 2004 to 2019 across ODI, Test, and T20 formats
 This project focuses on performance insights such as runs, strike rate, boundaries, yearly trends, and opposition-wise analysis, presented with a visually engaging design.
 ________________________________________
+
 📊 Dashboard Highlights
 ✅ Key KPIs
 •	Matches Played: 526
