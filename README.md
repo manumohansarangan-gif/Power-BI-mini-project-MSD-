@@ -9,16 +9,22 @@ ________________________________________
 •	Highest Score: 224
 •	Total 4s / 6s: 1486 / 359
 •	Overall Strike Rate: 86.27
+
+**----------------------------------------**
 ✅ Format-wise Analysis
 •	ODI
 •	Test
 •	T20
+**----------------------------------------**
+
 ✅ Visual Insights
 •	Runs by Year vs Opposition (stacked column chart)
 •	Total Runs Against Each Opposition
 •	Interactive format selection (ODI / T20 / Test)
 •	Dynamic KPI cards & performance gauges
-________________________________________
+
+**----------------------------------------**
+
 🛠 Tools & Technologies
 •	Power BI Desktop
 •	DAX (Calculated Columns & Measures)
@@ -26,6 +32,9 @@ ________________________________________
 •	Data Modeling & Relationships
 •	Custom visual styling
 •	Background image & KPI design
+
+**----------------------------------------**
+
 Key Metrics Used
 •	Matches Played
 •	Total Runs
@@ -35,15 +44,24 @@ Key Metrics Used
 •	4s & 6s
 •	Opposition-wise Runs
 •	Year-wise Performance
+
+**----------------------------------------**
+
 Special handling was done for:
 •	DNB / Not Played records
 •	Format-wise filtering
 •	Clean numeric conversions
+
+**----------------------------------------**
+
 Business & Analytics Insights
 •	Peak performance years and consistency trends
 •	Strongest & weakest opposition performances
 •	Impact across different formats
 •	Evolution of strike rate over time
+
+**----------------------------------------**
+
 This dashboard demonstrates:
 •	Strong Power BI visualization skills
 •	Real-world sports analytics
